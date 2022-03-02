@@ -12,11 +12,7 @@ executable cardano-contractor
     hs-source-dirs: server
     main-is: Main.hs
     build-depends:
-<<<<<<< HEAD
         base ^>=4.14
-=======
-        base >=4.14
->>>>>>> f4b5ac42d68db43f51b1e5c80d461b204eb499a9
       , scotty >= 0.12
     other-modules:
         Contractor
