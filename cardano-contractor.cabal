@@ -9,7 +9,7 @@ category:            Web
 build-type:          Simple
 
 executable cardano-contractor
-    hs-source-dirs: app
+    hs-source-dirs: server
     main-is: Main.hs
     build-depends:
         base ^>=4.14.3.0
