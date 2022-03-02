@@ -5,9 +5,6 @@ version:            0.1.0.0
 author:             m4rcster
 maintainer:         marc.liew@me.com
 
-category:            Web
-build-type:          Simple
-
 executable cardano-contractor
     hs-source-dirs: server
     main-is: Main.hs
