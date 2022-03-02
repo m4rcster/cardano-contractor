@@ -4,8 +4,6 @@ module Contractor where
 
 import Web.Scotty
 
--- import Data.Monoid (mconcat)
-
 contractor :: IO ()
 contractor =
   scotty 3000 $
